@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomSaves.cpp.obj": [
+			"CustomSaves.init.gen.cpp.obj",
+			"CustomSavesBlueprintLibrary.gen.cpp.obj",
+			"CustomSaves.cpp.obj",
+			"CustomSavesBlueprintLibrary.cpp.obj",
+			"CustomSavesSaveGameSystem.cpp.obj"
+		]
+	}
+}

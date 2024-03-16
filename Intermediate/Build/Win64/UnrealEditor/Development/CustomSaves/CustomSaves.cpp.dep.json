@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\development\\customsaveplugin\\customsaveplugin\\plugins\\customsaves\\source\\customsaves\\private\\customsaves.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\development\\customsaveplugin\\customsaveplugin\\intermediate\\build\\win64\\customsaveplugineditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\development\\customsaveplugin\\customsaveplugin\\plugins\\customsaves\\intermediate\\build\\win64\\unrealeditor\\development\\customsaves\\definitions.customsaves.h",
+            "d:\\development\\customsaveplugin\\customsaveplugin\\plugins\\customsaves\\source\\customsaves\\public\\customsaves.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

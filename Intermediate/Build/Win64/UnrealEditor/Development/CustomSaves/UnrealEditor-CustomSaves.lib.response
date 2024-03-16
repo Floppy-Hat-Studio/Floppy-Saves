@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomSaves.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Development\CustomSavePlugin\CustomSavePlugin\Intermediate\Build\Win64\CustomSavePluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Development\CustomSavePlugin\CustomSavePlugin\Plugins\CustomSaves\Intermediate\Build\Win64\UnrealEditor\Development\CustomSaves\Module.CustomSaves.cpp.obj"
+"D:\Development\CustomSavePlugin\CustomSavePlugin\Plugins\CustomSaves\Intermediate\Build\Win64\UnrealEditor\Development\CustomSaves\Default.rc2.res"
+/OUT:"D:\Development\CustomSavePlugin\CustomSavePlugin\Plugins\CustomSaves\Intermediate\Build\Win64\UnrealEditor\Development\CustomSaves\UnrealEditor-CustomSaves.lib"
