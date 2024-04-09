@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root xmlns:android="http://schemas.android.com/apk/res/android">
+    <init>
+        <insert>
+        </insert>
+    </init>
+
+    <prebuildCopies>
+        <insert>
+        </insert>
+    </prebuildCopies>
+
+    <proguardAdditions>
+        <insert>
+        </insert>
+    </proguardAdditions>
+
+    <resourceCopies>
+        <insert>
+        </insert>
+    </resourceCopies>
+
+    <androidManifestUpdates>
+        <addPermission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <addPermission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    </androidManifestUpdates>
+
+    <gameActivityImportAdditions>
+        <insert>
+        </insert>
+    </gameActivityImportAdditions>
+
+    <buildGradleAdditions>
+        <insert>
+        </insert>
+    </buildGradleAdditions>
+
+    <gameActivityClassAdditions>
+        <insert>
+        </insert>
+    </gameActivityClassAdditions>
+
+    <gameActivityOnPauseAdditions>
+        <insert>
+        </insert>
+    </gameActivityOnPauseAdditions>
+
+    <gameActivityOnResumeAdditions>
+        <insert>
+        </insert>
+    </gameActivityOnResumeAdditions>
+
+    <gameActivityOnCreateAdditions>
+        <insert>
+        </insert>
+    </gameActivityOnCreateAdditions>
+
+    <gameActivityOnActivityResultAdditions>
+        <insert>
+        </insert>
+    </gameActivityOnActivityResultAdditions>
+</root>

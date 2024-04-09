@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Floppy Saves",
+	"Description": "Allows developers to point to a custom location to save and load from.",
+	"Category": "Other",
+	"CreatedBy": "Floppy Hat Studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FloppySaves",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

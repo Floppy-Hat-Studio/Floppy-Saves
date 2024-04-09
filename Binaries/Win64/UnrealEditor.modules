@@ -2,6 +2,7 @@
 	"BuildId": "23058290",
 	"Modules": 
 	{
-		"CustomSaves": "UnrealEditor-CustomSaves.dll"
+		"CustomSaves": "UnrealEditor-CustomSaves.dll",
+		"FloppySaves": "UnrealEditor-FloppySaves.dll"
 	}
 }
